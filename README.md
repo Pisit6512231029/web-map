@@ -29,7 +29,7 @@ C:\xampp\htdocs\web-map-main
 
 -กด New → สร้าง Database ชื่อ:
 
-products_shop_db
+products&shop_db
 
 4) Import ฐานข้อมูล
 
