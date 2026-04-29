@@ -19,7 +19,7 @@ C:\xampp\htdocs\
 
 -ตัวอย่าง:
 
-C:\xampp\htdocs\shop-web
+C:\xampp\htdocs\web-map
 
 3) สร้างฐานข้อมูล
 
