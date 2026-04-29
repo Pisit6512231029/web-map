@@ -26,4 +26,4 @@ products_shop_db.sql
 
 เปิด browser แล้วเข้า:
 
-http://localhost/web map
+http://localhost/web-map
